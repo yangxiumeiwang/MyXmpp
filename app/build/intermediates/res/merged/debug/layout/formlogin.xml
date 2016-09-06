@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><!--帧布局：提交后弹出布局提示，正在登录中  -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:id="@+id/formlogin_layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFEFEFEF"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:id="@+id/formlogin_pb"
+            style="@android:style/Widget.ProgressBar.Inverse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/formlogin_tv_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10.0dip"
+            android:text="正在登錄"
+            android:textColor="#FF000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/formlogin_layout2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFEFEFEF">
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="10.0dip">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dip"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/formlogin_tv_system"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="系统登录"
+                    android:textColor="#FF000000"
+                    android:textSize="20.0dip" />
+            </LinearLayout>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/formlogin_tv_userid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="账号:"
+                    android:textColor="#FF000000" />
+
+                <EditText
+                    android:id="@+id/formlogin_userid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:inputType="textWebEditText"
+                    android:maxLength="20"
+                    android:text="test1"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/formlogin_tv_pwd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="密码:"
+                    android:textColor="#FF000000" />
+
+                <EditText
+                    android:id="@+id/formlogin_pwd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:inputType="textPassword"
+                    android:maxLength="30"
+                    android:text="123"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_weight="1.0"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/formlogin_btsubmit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="确定" />
+
+                    <Button
+                        android:id="@+id/formlogin_btcancel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:text="取消" />
+                </LinearLayout>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_item_layout.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\friend_item_layout.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_item_layout.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\friend_item_layout.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_to.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\chat_to.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_layout.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\chat_layout.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\formlogin.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\formlogin.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_layout.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\friend_layout.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_layout.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\friend_layout.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frmfiles_row.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\frmfiles_row.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_in.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\chat_in.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_to.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\chat_to.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_in.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\chat_in.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frmfiles_row.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\frmfiles_row.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\formlogin.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\formlogin.xml"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frmfiles.xml",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\layout\\frmfiles.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_layout.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\chat_layout.xml"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frmfiles.xml",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\layout\\frmfiles.xml"
+    }
+]

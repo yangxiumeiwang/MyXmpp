@@ -1,0 +1,8 @@
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\util\XmppUtil$override.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\activity\ChatActivity$override.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\util\XmppUtil$1$override.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\activity\ChatActivity$2$override.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\activity\ChatActivity$RecFileTransferListener$override.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\activity\ChatActivity$1$1$override.class
+CHANGED,F:\mvp+rxjava\MVPframe-master\MyXmpp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\xmpp\client\activity\ChatActivity$1$override.class

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im.png",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\drawable\\im.png"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming.9.png",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\drawable\\incoming.9.png"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming.9.png",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\drawable\\incoming.9.png"
+    },
+    {
+        "merged": "F:\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing.9.png",
+        "source": "F:\\MyXmpp\\app\\src\\main\\res\\drawable\\outgoing.9.png"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im.png",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\drawable\\im.png"
+    },
+    {
+        "merged": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing.9.png",
+        "source": "F:\\mvp+rxjava\\MVPframe-master\\MyXmpp\\app\\src\\main\\res\\drawable\\outgoing.9.png"
+    }
+]
